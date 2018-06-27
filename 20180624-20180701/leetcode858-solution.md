@@ -1,4 +1,9 @@
-Note: If you prefer Chinese version, please visit this link. Don't forget to follow me on Zhihu as well.
+Note: If you prefer Chinese version, please visit this link below. Don't forget to follow me on Zhihu as well.
+
+ [My Zhihu articles](https://zhuanlan.zhihu.com/p/38560309)
+ 
+---
+
 
 I was praticing and found a interesting question. Here is the question:
 
@@ -68,4 +73,8 @@ From this question, we can conclude that:
 
 1. When you don't have idea about it, learn to find patttern from simple example
 2. Every physical question to mathematical question.
+
+if you love my solution, you can follow my repo of leetcode solutions in python on github and see how I solve them.
+
+https://github.com/orange90/leetcode\_solutions\_python
 
